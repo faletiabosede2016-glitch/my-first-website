@@ -1,2 +1,22 @@
 # my-first-website
 My first coding project
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website!</h1>
+
+    <p>My name is Abosede.</p>
+
+    <p>I am learning how to code.</p>
+
+    <h2>My Goal</h2>
+
+    <p>I want to become a skilled remote worker.</p>
+
+</body>
+</html>
